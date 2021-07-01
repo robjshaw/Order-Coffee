@@ -1,0 +1,2 @@
+﻿id,Created,Last Modified,phonenumber,status,result,parameters,eta
+CAdcc32fc92e36d8c1ec21c009e91381d3,6/4/2021 9:44am,6/4/2021 9:44am,+61422222515,virtual-agent-stopped,You've ordered large Latte and you want a pick-up.,"{""amount"":"""",""milk-type"":"""",""iced"":"""",""size"":""large"",""drink"":""Latte"",""delivery-pickup"":""pick-up""}",68
